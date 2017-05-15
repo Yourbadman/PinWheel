@@ -1,6 +1,6 @@
 ![PinWheel](./captures/device-2017-05-15-142922.gif)
 
-** PinWheelWidget** include two base widget : the simplification **CircleProgressBar** and **ParticleSystem**.
+**PinWheelWidget** include two base widget : the simplification **CircleProgressBar** and **ParticleSystem**.
 
 ## PinWheelWidget
  Before use it ,must call PinWheelWidget#init() to beginning. call setMax to set totla degree , setProgress to set current degree, start() to start animator,it will be continue util call stop, in the en of use it ,call free()
