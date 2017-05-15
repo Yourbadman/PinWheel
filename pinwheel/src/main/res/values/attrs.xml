@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- For PinWheel-->
+    <declare-styleable name="CircleProgressBar">
+        <attr name="background_color" format="color|reference" />
+        <attr name="progress_start_degree" format="float" />
+        <attr name="progress_total_degree" format="float" />
+        <attr name="progress_color" format="color|reference" />
+        <attr name="progress_stroke_width" format="dimension|reference" />
+        <attr name="progress_background_color" format="color|reference" />
+        <attr name="progress_stroke_cap">
+            <enum name="butt" value="0" />
+            <enum name="round" value="1" />
+            <enum name="square" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
