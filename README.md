@@ -1,4 +1,4 @@
-![PinWheel](./captures/device-2017-05-15-150010.gif)
+![PinWheel](./arts/pinwheel.gif)
 
 **PinWheelWidget** include two base widget : the simplification **CircleProgressBar** and **ParticleSystem**.
 
